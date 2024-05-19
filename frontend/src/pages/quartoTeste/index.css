@@ -1,0 +1,20 @@
+
+.resultado {
+    text-align: left;
+    font-size: 0.8rem;
+}
+
+
+@media (max-width: 768px) {
+    .resultado {
+        font-size: 0.6rem;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .resultado {
+        text-align: center;
+        font-size: 0.5rem; 
+    }
+}

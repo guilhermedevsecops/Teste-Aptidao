@@ -1,0 +1,5 @@
+export const home = "http://localhost:8000/home"
+export const numeros = "http://localhost:8000/numeros"
+export const compras = "http://localhost:8000/compras"
+export const veiculos = "http://localhost:8000/veiculos"
+export const verificaCep = "http://localhost:8000/verificaCep"

@@ -1,0 +1,37 @@
+
+.container_divisoria {
+    font-size: 1.0rem;
+    width: 100%;
+    max-width: 700px; 
+    margin: 0 auto; 
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+@media (max-width: 768px) {
+    .container_divisoria {
+        font-size: 0.9rem; 
+        margin-top: 20px; 
+    }
+}
+
+
+@media (max-width: 480px) {
+    .container_divisoria {
+        font-size: 0.8rem; 
+    }
+}
+
+
+strong {
+    text-align: center;
+    display: block; 
+}
+
+
+@media (max-width: 320px) {
+    strong {
+        font-size: 1.2rem; 
+    }
+}
