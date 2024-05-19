@@ -1,6 +1,6 @@
-# Backend utilizando Node.js TypeScript com Bancos de Dados no JSON Server
+# Teste de Aptidão
 
-Este projeto consiste em um backend desenvolvido em Node.js com TypeScript e utiliza o JSON Server como banco de dados. Ele oferece as seguintes funcionalidades:
+Este projeto consiste em um backend e Frontend desenvolvido em Node.js com TypeScript e utiliza o JSON Server como banco de dados. Ele oferece as seguintes funcionalidades:
 
 - Leitura de uma API de CEP para obter os dados do endereço correspondente ao CEP inserido.
 - Verificação de palíndromos, indicando se um número é ou não palíndromo.
@@ -60,5 +60,9 @@ Este projeto consiste em um backend desenvolvido em Node.js com TypeScript e uti
 ## Frontend
 
 No frontend, é realizada a comunicação com o backend para renderizar as funcionalidades mencionadas acima.
+
+## Como usar
+1. Entre no diretorio frontend e execute
+   `npm start`
 
 
